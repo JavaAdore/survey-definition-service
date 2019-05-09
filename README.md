@@ -21,6 +21,7 @@ Postgres DB <br/>
 environment variables should be added
 
 # SURVEY_ZIPKIN_SERVER_IP = 127.0.0.1
+# SURVEY_ZIPKIN_SERVER_PORT = 9411
 127.0.0.1 the ip of machine where zipkin server runs
   
 
